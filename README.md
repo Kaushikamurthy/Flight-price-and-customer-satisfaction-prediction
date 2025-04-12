@@ -24,7 +24,7 @@ A dual-purpose machine learning application developed using **Python**, **Stream
 - Departure & arrival time  
 - Flight duration
 
-#### 📈 Business Applications:
+####  Business Applications:
 - Helps travelers estimate flight costs  
 - Assists travel agencies with pricing strategy  
 - Enables businesses to budget travel costs  
