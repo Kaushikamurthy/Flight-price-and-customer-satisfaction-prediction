@@ -1,4 +1,4 @@
- Flight Price & Customer Satisfaction Prediction App
+ **Flight Price & Customer Satisfaction Prediction App**
 A dual-purpose machine learning application developed using Python, Streamlit, and MLflow to predict:
 
  Flight prices based on route, airline, and timing data (Regression)
